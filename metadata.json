@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Audio Extractor",
+  "description": "Extract and download audio snippets or full tracks from YouTube videos with ease.",
+  "requestFramePermissions": []
+}
